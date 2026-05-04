@@ -1,0 +1,8 @@
+jars/*.jar
+!jars/.gitkeep
+*.log
+__pycache__/
+.ipynb_checkpoints/
+.spark-warehouse/
+postgres_data/
+clickhouse_data/
